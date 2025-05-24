@@ -212,13 +212,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "pin_auth_flutter",
+      "name": "pin_auth",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-05-24T19:37:31.785801Z",
+  "generated": "2025-05-24T19:46:08.299405Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///D:/flutter",
