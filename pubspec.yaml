@@ -1,7 +1,7 @@
 name: pin_auth
 description: A Flutter plugin for secure PIN authentication with optional biometric fallback.
 version: 0.0.1
-homepage: https://github.com//pin_auth_flutter
+homepage: https://github.com/VenkataRaoRayala/pin_auth
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
